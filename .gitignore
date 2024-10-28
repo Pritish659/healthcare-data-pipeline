@@ -1,0 +1,12 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+
+output/
+
+# Installer logs
+sample_customer_data.txt
+sample_data.py
+
+.venv
+env/
+venv/
